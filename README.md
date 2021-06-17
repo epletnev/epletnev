@@ -1,5 +1,12 @@
 ### Hi there 👋
 
+# Evgeny Pletnev
+
+[![Portfolio](https://img.shields.io/badge/Portfolio-pletnev.netlify.app-green)](https://pletnev.netlify.app/)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-epletnev-blue)](https://www.linkedin.com/in/epletnev/)
+![Twitter URL](https://img.shields.io/twitter/url?label=Twitter&style=social&url=https%3A%2F%2Ftwitter.com%2Feapletnev)
+![Codewars](https://www.codewars.com/users/EvgenyP/badges/micro)
+
 <!--
 **epletnev/epletnev** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
