@@ -12,7 +12,7 @@ me = {
     location: 'London, UK',
     job: 'Software Developer',
     company: 'Tech for Better',
-    tech_passions: ['accessibility', 'diversity in tech', 'inclusion', 'social impact', 'teaching others to code']
+    tech_passions: ['accessibility', 'diversity in tech', 'inclusion', 'social impact', 'teaching others to code'],
 }
 ```
 ## Tech Stack 👨‍💻
